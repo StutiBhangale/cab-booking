@@ -1,0 +1,43 @@
+Vaishnavi:
+booking-payment
+procedure
+add city
+update/delete
+
+Stuti:
+application
+feedback
+trigger
+profile
+
+Tejaswini:
+register
+functions
+admin
+frontend
+
+Pages to design:
+1.index.html(home) - done
+2.login.html - done
+3.register.html - done
+4.application.html(driver register)
+5.booking.html - done
+6.contact.html
+7.payment.html
+8.feedback.html
+
+Passenger role:
+1.register/login
+2.book a cab
+3.view previous bookings
+
+Driver role:
+1.view requested/pending bookings
+2.apply(for job)/login
+
+Admin:
+1.view all bookings/payments
+
+Get an Auto
+Book a Cab
+Outstation

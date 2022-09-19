@@ -1,0 +1,56 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap'); */
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    width: 100%;
+    width: 2.4rem;
+    height: 2.4rem;
+    border-radius: 50%;
+}
+.nav-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    background: url("../img/slider1.jpg") no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    filter: brightness(90%);
+}
+.mycards{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18rem;
+    border: 2px solid rgb(182, 91, 91);
+    border-radius: 1rem;
+}
+.box img{
+    max-width: 100%;
+    height: 12rem;
+    border-radius: 1rem;
+}
+.bi{
+    color: white;
+}
+ul li:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#profileName{
+    color: white;
+}
